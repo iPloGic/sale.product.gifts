@@ -1,0 +1,39 @@
+.ipl-spg-loader {
+	text-align: center;
+}
+.ipl-spg-loader svg {
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	display:inline-block;
+}
+.ipl-spg-gift-list {
+	padding:20px;
+	border:1px solid #ccc;
+}
+.ipl-spg-gift-head {
+	font-size: 26px;
+	margin-bottom: 15px;
+}
+.ipl-spg-product {
+	border:2px solid #fff;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	display:inline-block;
+}
+.ipl-spg-product.ipl-spg-product-checked {
+	border:2px solid #fd7300;
+}
+.ipl-spg-product-img {
+	height:100px;
+	width:100px;
+	background-position: center center; background-repeat: no-repeat; background-size: contain;
+	cursor: pointer;
+}
+.ipl-spg-price {
+	text-decoration: line-through;
+	font-size: 0.8em;
+}
+.ipl-spg-free {
+	color: red;
+}
